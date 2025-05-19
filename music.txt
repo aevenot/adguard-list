@@ -1,0 +1,3 @@
+||spotifycdn.com^
+||spotify.com^
+||boardgamearena.net^
